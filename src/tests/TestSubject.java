@@ -1,5 +1,5 @@
 package tests;
-import main.Subject;
+import classes.Subject;
 
 public class TestSubject {
     public static void main(String[] args) {

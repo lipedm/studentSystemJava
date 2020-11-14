@@ -1,5 +1,5 @@
 package tests;
-import main.Student;
+import classes.Student;
 
 public class TestStudent {
 

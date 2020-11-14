@@ -1,13 +1,13 @@
-package main;
+package classes;
 
-public class Subject {
+public class Student {
 
     private int code;
     private String name;
 
-    public Subject(int code, String name) {
-        this.code = code;
+    public Student(int code, String name) {
         this.name = name;
+        this.code = code;
     }
 
     public int getCode() {
@@ -33,4 +33,8 @@ public class Subject {
             ", name='" + getName() + "'" +
             "}";
     }   
+
+    
 }
+
+
