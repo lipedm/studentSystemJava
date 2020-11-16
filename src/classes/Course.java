@@ -10,16 +10,12 @@ public class Course {
         ratings = new ArrayList<>();
     }
 
-    public Course(List<Rating> ratings) {
-        this.ratings = ratings;
-    }
-
     public List<Rating> getRatings() {
         return this.ratings;
     }
 
-    public void setRatings(List<Rating> ratings) {
-        this.ratings = ratings;
+    public void setRating(Rating e) {
+        ratings.add(e);
     }
 
     public Course ratings(List<Rating> ratings) {

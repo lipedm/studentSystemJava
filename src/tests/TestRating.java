@@ -10,7 +10,6 @@ public class TestRating {
         Subject d1 =  new Subject(100,"Matematica");
         Rating rating = new Rating(3, 4, a1, d1);
 
-        rating.toString();
-
+        System.out.println( rating.toString());
     }
 }
