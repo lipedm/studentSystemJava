@@ -1,6 +1,6 @@
 package main;
 
-import classes.Console;
+import views.Console;
 
 public class App {
     public static void main(String[] args) {
