@@ -8,8 +8,6 @@ public class App {
         Console app = new Console();
         app = app.mainMenu(app);
         System.out.println("A aplicação foi finalizada, até mais :)");
-    }
-
-    
+    }    
 
 }

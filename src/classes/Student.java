@@ -32,7 +32,7 @@ public class Student {
             " code='" + getCode() + "'" +
             ", name='" + getName() + "'" +
             "}";
-    }   
+    }  
 
     
 }
