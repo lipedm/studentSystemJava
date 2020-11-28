@@ -1,2 +1,2 @@
-# trabGB
-Trabalho Grau B Orientação à Objetos  - Notas de Alunos
+# Stduent Subject Ratings System  
+Orientação à Objetos Unisinos - Sistema Notas de Alunos
